@@ -1,0 +1,3 @@
+/Users/2004np/Desktop/tic-tac-toe/build/CMakeFiles/rebuild_cache.dir
+/Users/2004np/Desktop/tic-tac-toe/build/CMakeFiles/edit_cache.dir
+/Users/2004np/Desktop/tic-tac-toe/build/CMakeFiles/tic-tac-toe.dir
