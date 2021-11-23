@@ -1,8 +1,14 @@
-# Tic-tac-toe
-Implementation of tic-tac-toe with simple AI. `ncurses` and `gcc` are required.
-  
-Run:
+# tic-tac-toe
+the shittest tictactoe you've ever played
+
+install ncurses (e g for debian based linux):
 ```
-gcc main.cpp -lncurses
-./a.out
+sudo apt-get install libncurses5-dev libncursesw5-dev
+```
+
+then run:
+```
+cmake CMakeLists.txt
+make
+./tic-tac-toe
 ```
