@@ -1,12 +1,12 @@
 # tic-tac-toe
-the shittest tictactoe you've ever played
+The shittest tic-tac-toe you've ever played
 
-install ncurses (e g for debian based linux):
+Install ncurses (e g for debian based linux):
 ```
 sudo apt-get install libncurses5-dev libncursesw5-dev
 ```
 
-then run:
+Then run:
 ```
 cmake CMakeLists.txt
 make
